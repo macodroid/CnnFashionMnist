@@ -1,0 +1,1403 @@
+
+Epoch 1
+-------------------------------
+Train loss at epoch 1: 0.8636194318930308
+Val loss at epoch 1: 0.49446341870947086
+
+Train acc at epoch 1: 0.6923125
+Val acc at epoch 1: 0.8125
+Epoch 2
+-------------------------------
+Train loss at epoch 2: 0.5711128923892975
+Val loss at epoch 2: 0.41879940888983136
+
+Train acc at epoch 2: 0.789875
+Val acc at epoch 2: 0.8446666666666667
+Epoch 3
+-------------------------------
+Train loss at epoch 3: 0.48934899775187174
+Val loss at epoch 3: 0.3822979302482402
+
+Train acc at epoch 3: 0.8234583333333333
+Val acc at epoch 3: 0.86
+Epoch 4
+-------------------------------
+Train loss at epoch 4: 0.44408823450406393
+Val loss at epoch 4: 0.3551830696932813
+
+Train acc at epoch 4: 0.8380625
+Val acc at epoch 4: 0.8640833333333333
+Epoch 5
+-------------------------------
+Train loss at epoch 5: 0.4067640477816264
+Val loss at epoch 5: 0.33727332585035485
+
+Train acc at epoch 5: 0.8535625
+Val acc at epoch 5: 0.8745
+Epoch 6
+-------------------------------
+Train loss at epoch 6: 0.38934747433662414
+Val loss at epoch 6: 0.3114450478807409
+
+Train acc at epoch 6: 0.85925
+Val acc at epoch 6: 0.8844166666666666
+Epoch 7
+-------------------------------
+Train loss at epoch 7: 0.368339830438296
+Val loss at epoch 7: 0.29870681528081283
+
+Train acc at epoch 7: 0.8690625
+Val acc at epoch 7: 0.8891666666666667
+Epoch 8
+-------------------------------
+Train loss at epoch 8: 0.35966396204630535
+Val loss at epoch 8: 0.2858061376721301
+
+Train acc at epoch 8: 0.8714791666666667
+Val acc at epoch 8: 0.8934166666666666
+Epoch 9
+-------------------------------
+Train loss at epoch 9: 0.344123120824496
+Val loss at epoch 9: 0.28533530726711803
+
+Train acc at epoch 9: 0.8767083333333333
+Val acc at epoch 9: 0.8939166666666667
+Epoch 10
+-------------------------------
+Train loss at epoch 10: 0.33717528422673543
+Val loss at epoch 10: 0.2698999385725945
+
+Train acc at epoch 10: 0.8790208333333334
+Val acc at epoch 10: 0.90225
+Epoch 11
+-------------------------------
+Train loss at epoch 11: 0.3282131601572037
+Val loss at epoch 11: 0.26637797723425194
+
+Train acc at epoch 11: 0.882875
+Val acc at epoch 11: 0.9009166666666667
+Epoch 12
+-------------------------------
+Train loss at epoch 12: 0.32081072556972506
+Val loss at epoch 12: 0.25805371746103817
+
+Train acc at epoch 12: 0.8851458333333333
+Val acc at epoch 12: 0.9065
+Epoch 13
+-------------------------------
+Train loss at epoch 13: 0.31302794702847797
+Val loss at epoch 13: 0.26482054147314515
+
+Train acc at epoch 13: 0.8886666666666667
+Val acc at epoch 13: 0.9058333333333334
+Epoch 14
+-------------------------------
+Train loss at epoch 14: 0.30654498159885407
+Val loss at epoch 14: 0.25764649868645567
+
+Train acc at epoch 14: 0.8897291666666667
+Val acc at epoch 14: 0.905
+Epoch 15
+-------------------------------
+Train loss at epoch 15: 0.29852087767918906
+Val loss at epoch 15: 0.2501220629411809
+
+Train acc at epoch 15: 0.8927708333333333
+Val acc at epoch 15: 0.9073333333333333
+Epoch 16
+-------------------------------
+Train loss at epoch 16: 0.298184735139211
+Val loss at epoch 16: 0.2461265525285234
+
+Train acc at epoch 16: 0.8949791666666667
+Val acc at epoch 16: 0.9118333333333334
+Epoch 17
+-------------------------------
+Train loss at epoch 17: 0.29065036181608833
+Val loss at epoch 17: 0.24062801723150498
+
+Train acc at epoch 17: 0.8972083333333334
+Val acc at epoch 17: 0.9121666666666667
+Epoch 18
+-------------------------------
+Train loss at epoch 18: 0.28125195324420926
+Val loss at epoch 18: 0.2475236327724254
+
+Train acc at epoch 18: 0.8992291666666666
+Val acc at epoch 18: 0.908
+Epoch 19
+-------------------------------
+Train loss at epoch 19: 0.28445346077283223
+Val loss at epoch 19: 0.24069544831488995
+
+Train acc at epoch 19: 0.8989166666666667
+Val acc at epoch 19: 0.91225
+Epoch 20
+-------------------------------
+Train loss at epoch 20: 0.280625093460083
+Val loss at epoch 20: 0.22911128227380997
+
+Train acc at epoch 20: 0.9023333333333333
+Val acc at epoch 20: 0.9173333333333333
+Epoch 21
+-------------------------------
+Train loss at epoch 21: 0.27540356016159057
+Val loss at epoch 21: 0.23400653748119132
+
+Train acc at epoch 21: 0.90175
+Val acc at epoch 21: 0.9155
+Epoch 22
+-------------------------------
+Train loss at epoch 22: 0.2759866092205048
+Val loss at epoch 22: 0.23177866495036065
+
+Train acc at epoch 22: 0.9017708333333333
+Val acc at epoch 22: 0.9149166666666667
+Epoch 23
+-------------------------------
+Train loss at epoch 23: 0.2719164739251137
+Val loss at epoch 23: 0.22641537346421403
+
+Train acc at epoch 23: 0.9022291666666666
+Val acc at epoch 23: 0.9135833333333333
+Epoch 24
+-------------------------------
+Train loss at epoch 24: 0.2614837241570155
+Val loss at epoch 24: 0.23037345548893542
+
+Train acc at epoch 24: 0.9072083333333333
+Val acc at epoch 24: 0.91575
+Epoch 25
+-------------------------------
+Train loss at epoch 25: 0.2669505522648494
+Val loss at epoch 25: 0.2186397524907234
+
+Train acc at epoch 25: 0.9055625
+Val acc at epoch 25: 0.91775
+Epoch 26
+-------------------------------
+Train loss at epoch 26: 0.2628362294038137
+Val loss at epoch 26: 0.2144997666807885
+
+Train acc at epoch 26: 0.9060625
+Val acc at epoch 26: 0.9210833333333334
+Epoch 27
+-------------------------------
+Train loss at epoch 27: 0.25706928422053654
+Val loss at epoch 27: 0.21569768315617074
+
+Train acc at epoch 27: 0.9082291666666666
+Val acc at epoch 27: 0.9199166666666667
+Epoch 28
+-------------------------------
+Train loss at epoch 28: 0.2561429676612218
+Val loss at epoch 28: 0.21791498965405404
+
+Train acc at epoch 28: 0.9088333333333334
+Val acc at epoch 28: 0.92175
+Epoch 29
+-------------------------------
+Train loss at epoch 29: 0.25327412895361584
+Val loss at epoch 29: 0.22351331041848405
+
+Train acc at epoch 29: 0.9094583333333334
+Val acc at epoch 29: 0.9176666666666666
+Epoch 30
+-------------------------------
+Train loss at epoch 30: 0.24936773286263147
+Val loss at epoch 30: 0.21585523741359405
+
+Train acc at epoch 30: 0.91275
+Val acc at epoch 30: 0.9199166666666667
+Epoch 31
+-------------------------------
+Train loss at epoch 31: 0.2478507153193156
+Val loss at epoch 31: 0.2097345864836206
+
+Train acc at epoch 31: 0.9119166666666667
+Val acc at epoch 31: 0.9266666666666666
+Epoch 32
+-------------------------------
+Train loss at epoch 32: 0.24479001794258753
+Val loss at epoch 32: 0.20812916319738042
+
+Train acc at epoch 32: 0.9124791666666666
+Val acc at epoch 32: 0.926
+Epoch 33
+-------------------------------
+Train loss at epoch 33: 0.24314529142777125
+Val loss at epoch 33: 0.20512820376043625
+
+Train acc at epoch 33: 0.9142083333333333
+Val acc at epoch 33: 0.9279166666666666
+Epoch 34
+-------------------------------
+Train loss at epoch 34: 0.24566959377129874
+Val loss at epoch 34: 0.20859373828515093
+
+Train acc at epoch 34: 0.9129375
+Val acc at epoch 34: 0.9266666666666666
+Epoch 35
+-------------------------------
+Train loss at epoch 35: 0.2400727459192276
+Val loss at epoch 35: 0.2033863069212183
+
+Train acc at epoch 35: 0.915625
+Val acc at epoch 35: 0.9250833333333334
+Epoch 36
+-------------------------------
+Train loss at epoch 36: 0.2403510262966156
+Val loss at epoch 36: 0.2070237899080236
+
+Train acc at epoch 36: 0.9148958333333334
+Val acc at epoch 36: 0.927
+Epoch 37
+-------------------------------
+Train loss at epoch 37: 0.24003693544864654
+Val loss at epoch 37: 0.20015643893721255
+
+Train acc at epoch 37: 0.9147291666666667
+Val acc at epoch 37: 0.9281666666666667
+Epoch 38
+-------------------------------
+Train loss at epoch 38: 0.23418726195891698
+Val loss at epoch 38: 0.19984726461165764
+
+Train acc at epoch 38: 0.9170833333333334
+Val acc at epoch 38: 0.9269166666666667
+Epoch 39
+-------------------------------
+Train loss at epoch 39: 0.23200742838780086
+Val loss at epoch 39: 0.19658974399592014
+
+Train acc at epoch 39: 0.9184375
+Val acc at epoch 39: 0.9291666666666667
+Epoch 40
+-------------------------------
+Train loss at epoch 40: 0.23466994549830755
+Val loss at epoch 40: 0.20633119217892912
+
+Train acc at epoch 40: 0.9165833333333333
+Val acc at epoch 40: 0.9221666666666667
+Epoch 41
+-------------------------------
+Train loss at epoch 41: 0.22785376691818238
+Val loss at epoch 41: 0.19836616080175054
+
+Train acc at epoch 41: 0.9185416666666667
+Val acc at epoch 41: 0.9290833333333334
+Epoch 42
+-------------------------------
+Train loss at epoch 42: 0.22799762739737828
+Val loss at epoch 42: 0.21442793167017876
+
+Train acc at epoch 42: 0.9192916666666666
+Val acc at epoch 42: 0.9224166666666667
+Epoch 43
+-------------------------------
+Train loss at epoch 43: 0.22899098485708236
+Val loss at epoch 43: 0.19675744316996413
+
+Train acc at epoch 43: 0.9195416666666667
+Val acc at epoch 43: 0.9285833333333333
+Epoch 44
+-------------------------------
+Train loss at epoch 44: 0.22777782879273098
+Val loss at epoch 44: 0.19313915351286848
+
+Train acc at epoch 44: 0.9195
+Val acc at epoch 44: 0.9291666666666667
+Epoch 45
+-------------------------------
+Train loss at epoch 45: 0.22578119037548702
+Val loss at epoch 45: 0.1961295263881379
+
+Train acc at epoch 45: 0.9203541666666667
+Val acc at epoch 45: 0.9285833333333333
+Epoch 46
+-------------------------------
+Train loss at epoch 46: 0.22525243602196376
+Val loss at epoch 46: 0.1948366210736493
+
+Train acc at epoch 46: 0.9198541666666666
+Val acc at epoch 46: 0.9300833333333334
+Epoch 47
+-------------------------------
+Train loss at epoch 47: 0.2235233164628347
+Val loss at epoch 47: 0.20408176527695454
+
+Train acc at epoch 47: 0.9213541666666667
+Val acc at epoch 47: 0.9245
+Epoch 48
+-------------------------------
+Train loss at epoch 48: 0.22128494097789128
+Val loss at epoch 48: 0.19220643399402182
+
+Train acc at epoch 48: 0.9199375
+Val acc at epoch 48: 0.9310833333333334
+Epoch 49
+-------------------------------
+Train loss at epoch 49: 0.21856847900152207
+Val loss at epoch 49: 0.1939346875123521
+
+Train acc at epoch 49: 0.9216458333333334
+Val acc at epoch 49: 0.9305
+Epoch 50
+-------------------------------
+Train loss at epoch 50: 0.21731789578994115
+Val loss at epoch 50: 0.19135181423514447
+
+Train acc at epoch 50: 0.9240833333333334
+Val acc at epoch 50: 0.93125
+Epoch 51
+-------------------------------
+Train loss at epoch 51: 0.2183673038482666
+Val loss at epoch 51: 0.19107307358942133
+
+Train acc at epoch 51: 0.9224583333333334
+Val acc at epoch 51: 0.9329166666666666
+Epoch 52
+-------------------------------
+Train loss at epoch 52: 0.2173965127468109
+Val loss at epoch 52: 0.18940341076318254
+
+Train acc at epoch 52: 0.9214791666666666
+Val acc at epoch 52: 0.9309166666666666
+Epoch 53
+-------------------------------
+Train loss at epoch 53: 0.21810307031869888
+Val loss at epoch 53: 0.1900146578220611
+
+Train acc at epoch 53: 0.9218125
+Val acc at epoch 53: 0.9340833333333334
+Epoch 54
+-------------------------------
+Train loss at epoch 54: 0.21786876718203227
+Val loss at epoch 54: 0.1863033467943364
+
+Train acc at epoch 54: 0.9226041666666667
+Val acc at epoch 54: 0.933
+Epoch 55
+-------------------------------
+Train loss at epoch 55: 0.21583194184303284
+Val loss at epoch 55: 0.18718524467437825
+
+Train acc at epoch 55: 0.924375
+Val acc at epoch 55: 0.93275
+Epoch 56
+-------------------------------
+Train loss at epoch 56: 0.21197469160954158
+Val loss at epoch 56: 0.18865012203125245
+
+Train acc at epoch 56: 0.9253125
+Val acc at epoch 56: 0.9343333333333333
+Epoch 57
+-------------------------------
+Train loss at epoch 57: 0.2111022394299507
+Val loss at epoch 57: 0.18318639965133465
+
+Train acc at epoch 57: 0.9250208333333333
+Val acc at epoch 57: 0.93425
+Epoch 58
+-------------------------------
+Train loss at epoch 58: 0.21089440687497457
+Val loss at epoch 58: 0.19161180803116332
+
+Train acc at epoch 58: 0.9236041666666667
+Val acc at epoch 58: 0.93325
+Epoch 59
+-------------------------------
+Train loss at epoch 59: 0.2116536535223325
+Val loss at epoch 59: 0.1888742041873171
+
+Train acc at epoch 59: 0.9248958333333334
+Val acc at epoch 59: 0.9326666666666666
+Epoch 60
+-------------------------------
+Train loss at epoch 60: 0.20815678132573764
+Val loss at epoch 60: 0.18900187880276365
+
+Train acc at epoch 60: 0.9252291666666667
+Val acc at epoch 60: 0.9319166666666666
+Epoch 61
+-------------------------------
+Train loss at epoch 61: 0.21034965594609578
+Val loss at epoch 61: 0.18855011043079356
+
+Train acc at epoch 61: 0.9251458333333333
+Val acc at epoch 61: 0.9323333333333333
+Epoch 62
+-------------------------------
+Train loss at epoch 62: 0.20642053774992625
+Val loss at epoch 62: 0.18578815777251062
+
+Train acc at epoch 62: 0.9269375
+Val acc at epoch 62: 0.9318333333333333
+Epoch 63
+-------------------------------
+Train loss at epoch 63: 0.2057563717365265
+Val loss at epoch 63: 0.18542032300474795
+
+Train acc at epoch 63: 0.926875
+Val acc at epoch 63: 0.9335
+Epoch 64
+-------------------------------
+Train loss at epoch 64: 0.20424636121590933
+Val loss at epoch 64: 0.18858127589238452
+
+Train acc at epoch 64: 0.9280416666666667
+Val acc at epoch 64: 0.9335
+Epoch 65
+-------------------------------
+Train loss at epoch 65: 0.2029675974647204
+Val loss at epoch 65: 0.18585462872176728
+
+Train acc at epoch 65: 0.9271666666666667
+Val acc at epoch 65: 0.93475
+Epoch 66
+-------------------------------
+Train loss at epoch 66: 0.2048125774860382
+Val loss at epoch 66: 0.1924799551513601
+
+Train acc at epoch 66: 0.9262291666666667
+Val acc at epoch 66: 0.9334166666666667
+Epoch 67
+-------------------------------
+Train loss at epoch 67: 0.20218910924593608
+Val loss at epoch 67: 0.18609517979178022
+
+Train acc at epoch 67: 0.9285208333333334
+Val acc at epoch 67: 0.9329166666666666
+Epoch 68
+-------------------------------
+Train loss at epoch 68: 0.2017245660821597
+Val loss at epoch 68: 0.18502737962185067
+
+Train acc at epoch 68: 0.9279166666666666
+Val acc at epoch 68: 0.9360833333333334
+Epoch 69
+-------------------------------
+Train loss at epoch 69: 0.20385364270210266
+Val loss at epoch 69: 0.18406788323153842
+
+Train acc at epoch 69: 0.9282083333333333
+Val acc at epoch 69: 0.9359166666666666
+Epoch 70
+-------------------------------
+Train loss at epoch 70: 0.2000434103012085
+Val loss at epoch 70: 0.18113163612941477
+
+Train acc at epoch 70: 0.9301458333333333
+Val acc at epoch 70: 0.93625
+Epoch 71
+-------------------------------
+Train loss at epoch 71: 0.20111894555886586
+Val loss at epoch 71: 0.1848851167299646
+
+Train acc at epoch 71: 0.9291458333333333
+Val acc at epoch 71: 0.9344166666666667
+Epoch 72
+-------------------------------
+Train loss at epoch 72: 0.1969511497616768
+Val loss at epoch 72: 0.1778549663722515
+
+Train acc at epoch 72: 0.9300416666666667
+Val acc at epoch 72: 0.9366666666666666
+Epoch 73
+-------------------------------
+Train loss at epoch 73: 0.19853259787956873
+Val loss at epoch 73: 0.18233437297192026
+
+Train acc at epoch 73: 0.92975
+Val acc at epoch 73: 0.9343333333333333
+Epoch 74
+-------------------------------
+Train loss at epoch 74: 0.19800334960222243
+Val loss at epoch 74: 0.18372144803721854
+
+Train acc at epoch 74: 0.9296458333333333
+Val acc at epoch 74: 0.93525
+Epoch 75
+-------------------------------
+Train loss at epoch 75: 0.1995304881731669
+Val loss at epoch 75: 0.17594617668618548
+
+Train acc at epoch 75: 0.9288125
+Val acc at epoch 75: 0.9363333333333334
+Epoch 76
+-------------------------------
+Train loss at epoch 76: 0.19775309197107951
+Val loss at epoch 76: 0.18287414680928626
+
+Train acc at epoch 76: 0.9292083333333333
+Val acc at epoch 76: 0.9375833333333333
+Epoch 77
+-------------------------------
+Train loss at epoch 77: 0.19744037727514901
+Val loss at epoch 77: 0.18512655604392925
+
+Train acc at epoch 77: 0.9299375
+Val acc at epoch 77: 0.9345833333333333
+Epoch 78
+-------------------------------
+Train loss at epoch 78: 0.1921319803794225
+Val loss at epoch 78: 0.18065128665655217
+
+Train acc at epoch 78: 0.9305625
+Val acc at epoch 78: 0.9369166666666666
+Epoch 79
+-------------------------------
+Train loss at epoch 79: 0.1933137583732605
+Val loss at epoch 79: 0.18197394558723937
+
+Train acc at epoch 79: 0.9306875
+Val acc at epoch 79: 0.9365
+Epoch 80
+-------------------------------
+Train loss at epoch 80: 0.19293795281648635
+Val loss at epoch 80: 0.17719078801096755
+
+Train acc at epoch 80: 0.9313125
+Val acc at epoch 80: 0.9365833333333333
+Epoch 81
+-------------------------------
+Train loss at epoch 81: 0.19081119110186895
+Val loss at epoch 81: 0.1813523621159665
+
+Train acc at epoch 81: 0.9324375
+Val acc at epoch 81: 0.9365
+Epoch 82
+-------------------------------
+Train loss at epoch 82: 0.18985002865393957
+Val loss at epoch 82: 0.17826578231092463
+
+Train acc at epoch 82: 0.9315416666666667
+Val acc at epoch 82: 0.938
+Epoch 83
+-------------------------------
+Train loss at epoch 83: 0.18932738002141317
+Val loss at epoch 83: 0.18312455880198072
+
+Train acc at epoch 83: 0.932375
+Val acc at epoch 83: 0.9333333333333333
+Epoch 84
+-------------------------------
+Train loss at epoch 84: 0.19292847992976506
+Val loss at epoch 84: 0.178821843513783
+
+Train acc at epoch 84: 0.9319583333333333
+Val acc at epoch 84: 0.9361666666666667
+Epoch 85
+-------------------------------
+Train loss at epoch 85: 0.1922215414047241
+Val loss at epoch 85: 0.17391852899751764
+
+Train acc at epoch 85: 0.931875
+Val acc at epoch 85: 0.9375833333333333
+Epoch 86
+-------------------------------
+Train loss at epoch 86: 0.1909127255678177
+Val loss at epoch 86: 0.18210634307816942
+
+Train acc at epoch 86: 0.9322083333333333
+Val acc at epoch 86: 0.9335833333333333
+Epoch 87
+-------------------------------
+Train loss at epoch 87: 0.18882665687799455
+Val loss at epoch 87: 0.18126052435725293
+
+Train acc at epoch 87: 0.9339375
+Val acc at epoch 87: 0.93575
+Epoch 88
+-------------------------------
+Train loss at epoch 88: 0.1881006702184677
+Val loss at epoch 88: 0.17210712703935643
+
+Train acc at epoch 88: 0.9337916666666667
+Val acc at epoch 88: 0.93625
+Epoch 89
+-------------------------------
+Train loss at epoch 89: 0.1905773900349935
+Val loss at epoch 89: 0.17602010689517286
+
+Train acc at epoch 89: 0.9332916666666666
+Val acc at epoch 89: 0.937
+Epoch 90
+-------------------------------
+Train loss at epoch 90: 0.18811440515518188
+Val loss at epoch 90: 0.17229551726833303
+
+Train acc at epoch 90: 0.9341666666666667
+Val acc at epoch 90: 0.9391666666666667
+Epoch 91
+-------------------------------
+Train loss at epoch 91: 0.18709770280122756
+Val loss at epoch 91: 0.17230081720713605
+
+Train acc at epoch 91: 0.9333541666666667
+Val acc at epoch 91: 0.9393333333333334
+Epoch 92
+-------------------------------
+Train loss at epoch 92: 0.18839347823460897
+Val loss at epoch 92: 0.17497855508105553
+
+Train acc at epoch 92: 0.9324375
+Val acc at epoch 92: 0.9381666666666667
+Epoch 93
+-------------------------------
+Train loss at epoch 93: 0.18461344782511394
+Val loss at epoch 93: 0.18109325699983758
+
+Train acc at epoch 93: 0.9347291666666667
+Val acc at epoch 93: 0.9368333333333333
+Epoch 94
+-------------------------------
+Train loss at epoch 94: 0.18552667436003684
+Val loss at epoch 94: 0.17385480061490485
+
+Train acc at epoch 94: 0.9333125
+Val acc at epoch 94: 0.9389166666666666
+Epoch 95
+-------------------------------
+Train loss at epoch 95: 0.18728517015775045
+Val loss at epoch 95: 0.1783588017792778
+
+Train acc at epoch 95: 0.9340208333333333
+Val acc at epoch 95: 0.93625
+Epoch 96
+-------------------------------
+Train loss at epoch 96: 0.1838394562502702
+Val loss at epoch 96: 0.1741557710586076
+
+Train acc at epoch 96: 0.9339583333333333
+Val acc at epoch 96: 0.9381666666666667
+Epoch 97
+-------------------------------
+Train loss at epoch 97: 0.18200245042641958
+Val loss at epoch 97: 0.18165861529872773
+
+Train acc at epoch 97: 0.9352291666666667
+Val acc at epoch 97: 0.93475
+Epoch 98
+-------------------------------
+Train loss at epoch 98: 0.18144375358025233
+Val loss at epoch 98: 0.1708908006152574
+
+Train acc at epoch 98: 0.9358541666666667
+Val acc at epoch 98: 0.9378333333333333
+Epoch 99
+-------------------------------
+Train loss at epoch 99: 0.18373881179094315
+Val loss at epoch 99: 0.17601842441140336
+
+Train acc at epoch 99: 0.9338333333333333
+Val acc at epoch 99: 0.936
+Epoch 100
+-------------------------------
+Train loss at epoch 100: 0.17828796492020288
+Val loss at epoch 100: 0.17412220044656002
+
+Train acc at epoch 100: 0.9366041666666667
+Val acc at epoch 100: 0.9396666666666667
+Epoch 101
+-------------------------------
+Train loss at epoch 101: 0.18200952363014222
+Val loss at epoch 101: 0.17573792368490646
+
+Train acc at epoch 101: 0.9354583333333333
+Val acc at epoch 101: 0.93725
+Epoch 102
+-------------------------------
+Train loss at epoch 102: 0.1826685509880384
+Val loss at epoch 102: 0.17245698395244619
+
+Train acc at epoch 102: 0.9351041666666666
+Val acc at epoch 102: 0.9390833333333334
+Epoch 103
+-------------------------------
+Train loss at epoch 103: 0.17959552655617397
+Val loss at epoch 103: 0.16953913011449448
+
+Train acc at epoch 103: 0.9362708333333334
+Val acc at epoch 103: 0.9389166666666666
+Epoch 104
+-------------------------------
+Train loss at epoch 104: 0.18187530701359114
+Val loss at epoch 104: 0.17353956575723403
+
+Train acc at epoch 104: 0.9358958333333334
+Val acc at epoch 104: 0.9378333333333333
+Epoch 105
+-------------------------------
+Train loss at epoch 105: 0.17993532222509384
+Val loss at epoch 105: 0.1680070734880072
+
+Train acc at epoch 105: 0.936
+Val acc at epoch 105: 0.9415
+Epoch 106
+-------------------------------
+Train loss at epoch 106: 0.17722463848193487
+Val loss at epoch 106: 0.17185849220828808
+
+Train acc at epoch 106: 0.9376041666666667
+Val acc at epoch 106: 0.9395
+Epoch 107
+-------------------------------
+Train loss at epoch 107: 0.18041795066992442
+Val loss at epoch 107: 0.17110598935408794
+
+Train acc at epoch 107: 0.9354791666666666
+Val acc at epoch 107: 0.9395833333333333
+Epoch 108
+-------------------------------
+Train loss at epoch 108: 0.1776700247923533
+Val loss at epoch 108: 0.16599635653039244
+
+Train acc at epoch 108: 0.937125
+Val acc at epoch 108: 0.9414166666666667
+Epoch 109
+-------------------------------
+Train loss at epoch 109: 0.1787145281235377
+Val loss at epoch 109: 0.172863267639533
+
+Train acc at epoch 109: 0.9368333333333333
+Val acc at epoch 109: 0.9405833333333333
+Epoch 110
+-------------------------------
+Train loss at epoch 110: 0.17692210495471955
+Val loss at epoch 110: 0.16819518574691833
+
+Train acc at epoch 110: 0.9370833333333334
+Val acc at epoch 110: 0.9393333333333334
+Epoch 111
+-------------------------------
+Train loss at epoch 111: 0.17733645977576573
+Val loss at epoch 111: 0.1712016373714234
+
+Train acc at epoch 111: 0.9374583333333333
+Val acc at epoch 111: 0.9394166666666667
+Epoch 112
+-------------------------------
+Train loss at epoch 112: 0.17662491462628047
+Val loss at epoch 112: 0.17008370283911836
+
+Train acc at epoch 112: 0.9364791666666666
+Val acc at epoch 112: 0.9415833333333333
+Epoch 113
+-------------------------------
+Train loss at epoch 113: 0.174060908138752
+Val loss at epoch 113: 0.17463421663071246
+
+Train acc at epoch 113: 0.9377083333333334
+Val acc at epoch 113: 0.938
+Epoch 114
+-------------------------------
+Train loss at epoch 114: 0.17448370948433875
+Val loss at epoch 114: 0.1665479479397231
+
+Train acc at epoch 114: 0.937625
+Val acc at epoch 114: 0.94125
+Epoch 115
+-------------------------------
+Train loss at epoch 115: 0.17309242784976958
+Val loss at epoch 115: 0.16766930216962986
+
+Train acc at epoch 115: 0.9395625
+Val acc at epoch 115: 0.9415833333333333
+Epoch 116
+-------------------------------
+Train loss at epoch 116: 0.17647333868344625
+Val loss at epoch 116: 0.17159284048892082
+
+Train acc at epoch 116: 0.9368333333333333
+Val acc at epoch 116: 0.9368333333333333
+Epoch 117
+-------------------------------
+Train loss at epoch 117: 0.17200615805387498
+Val loss at epoch 117: 0.16869434627129676
+
+Train acc at epoch 117: 0.9382291666666667
+Val acc at epoch 117: 0.94125
+Epoch 118
+-------------------------------
+Train loss at epoch 118: 0.17531118645270666
+Val loss at epoch 118: 0.16858921945095062
+
+Train acc at epoch 118: 0.9378541666666667
+Val acc at epoch 118: 0.9390833333333334
+Epoch 119
+-------------------------------
+Train loss at epoch 119: 0.17176188979546228
+Val loss at epoch 119: 0.16512236993839133
+
+Train acc at epoch 119: 0.938875
+Val acc at epoch 119: 0.9439166666666666
+Epoch 120
+-------------------------------
+Train loss at epoch 120: 0.17259763405720394
+Val loss at epoch 120: 0.16402095683077547
+
+Train acc at epoch 120: 0.9391041666666666
+Val acc at epoch 120: 0.9418333333333333
+Epoch 121
+-------------------------------
+Train loss at epoch 121: 0.17258509916067125
+Val loss at epoch 121: 0.16884743307340652
+
+Train acc at epoch 121: 0.9390208333333333
+Val acc at epoch 121: 0.9405
+Epoch 122
+-------------------------------
+Train loss at epoch 122: 0.1711688495874405
+Val loss at epoch 122: 0.17051217958648154
+
+Train acc at epoch 122: 0.9378541666666667
+Val acc at epoch 122: 0.9408333333333333
+Epoch 123
+-------------------------------
+Train loss at epoch 123: 0.17091266014178594
+Val loss at epoch 123: 0.16791220199554524
+
+Train acc at epoch 123: 0.9393541666666667
+Val acc at epoch 123: 0.9425
+Epoch 124
+-------------------------------
+Train loss at epoch 124: 0.1732970076998075
+Val loss at epoch 124: 0.17306400371834318
+
+Train acc at epoch 124: 0.938
+Val acc at epoch 124: 0.93975
+Epoch 125
+-------------------------------
+Train loss at epoch 125: 0.16955994288126627
+Val loss at epoch 125: 0.16327841754289382
+
+Train acc at epoch 125: 0.9390208333333333
+Val acc at epoch 125: 0.9408333333333333
+Epoch 126
+-------------------------------
+Train loss at epoch 126: 0.17002381012837092
+Val loss at epoch 126: 0.16904606400652133
+
+Train acc at epoch 126: 0.9390833333333334
+Val acc at epoch 126: 0.9403333333333334
+Epoch 127
+-------------------------------
+Train loss at epoch 127: 0.16925416338443755
+Val loss at epoch 127: 0.16534332201835958
+
+Train acc at epoch 127: 0.940875
+Val acc at epoch 127: 0.9423333333333334
+Epoch 128
+-------------------------------
+Train loss at epoch 128: 0.17044994562864305
+Val loss at epoch 128: 0.16944362365819038
+
+Train acc at epoch 128: 0.9398125
+Val acc at epoch 128: 0.9424166666666667
+Epoch 129
+-------------------------------
+Train loss at epoch 129: 0.16582952558994293
+Val loss at epoch 129: 0.16645274727426945
+
+Train acc at epoch 129: 0.9405
+Val acc at epoch 129: 0.94375
+Epoch 130
+-------------------------------
+Train loss at epoch 130: 0.17066774855057398
+Val loss at epoch 130: 0.16544359958076732
+
+Train acc at epoch 130: 0.9386666666666666
+Val acc at epoch 130: 0.9435
+Epoch 131
+-------------------------------
+Train loss at epoch 131: 0.16648765284816425
+Val loss at epoch 131: 0.16638717899455668
+
+Train acc at epoch 131: 0.9404166666666667
+Val acc at epoch 131: 0.9405833333333333
+Epoch 132
+-------------------------------
+Train loss at epoch 132: 0.1684839081168175
+Val loss at epoch 132: 0.165098322991361
+
+Train acc at epoch 132: 0.940375
+Val acc at epoch 132: 0.9406666666666667
+Epoch 133
+-------------------------------
+Train loss at epoch 133: 0.16768678069114684
+Val loss at epoch 133: 0.16925132234996937
+
+Train acc at epoch 133: 0.939625
+Val acc at epoch 133: 0.9393333333333334
+Epoch 134
+-------------------------------
+Train loss at epoch 134: 0.16850845523675284
+Val loss at epoch 134: 0.1644117802460777
+
+Train acc at epoch 134: 0.9385416666666667
+Val acc at epoch 134: 0.9419166666666666
+Epoch 135
+-------------------------------
+Train loss at epoch 135: 0.16805533176660536
+Val loss at epoch 135: 0.1672996987608519
+
+Train acc at epoch 135: 0.9405416666666667
+Val acc at epoch 135: 0.9405833333333333
+Epoch 136
+-------------------------------
+Train loss at epoch 136: 0.1656833303173383
+Val loss at epoch 136: 0.16936507876566115
+
+Train acc at epoch 136: 0.9410833333333334
+Val acc at epoch 136: 0.93875
+Epoch 137
+-------------------------------
+Train loss at epoch 137: 0.16452237576742967
+Val loss at epoch 137: 0.1676305614094785
+
+Train acc at epoch 137: 0.94075
+Val acc at epoch 137: 0.9411666666666667
+Epoch 138
+-------------------------------
+Train loss at epoch 138: 0.16501662836472195
+Val loss at epoch 138: 0.17135329699104138
+
+Train acc at epoch 138: 0.9407708333333333
+Val acc at epoch 138: 0.94025
+Epoch 139
+-------------------------------
+Train loss at epoch 139: 0.16745801369349161
+Val loss at epoch 139: 0.16526389902735011
+
+Train acc at epoch 139: 0.9407708333333333
+Val acc at epoch 139: 0.9420833333333334
+Epoch 140
+-------------------------------
+Train loss at epoch 140: 0.1659766136010488
+Val loss at epoch 140: 0.166864849309972
+
+Train acc at epoch 140: 0.9407916666666667
+Val acc at epoch 140: 0.9415833333333333
+Epoch 141
+-------------------------------
+Train loss at epoch 141: 0.16467310398817062
+Val loss at epoch 141: 0.16901081483414832
+
+Train acc at epoch 141: 0.9411458333333333
+Val acc at epoch 141: 0.9415
+Epoch 142
+-------------------------------
+Train loss at epoch 142: 0.16433765097459158
+Val loss at epoch 142: 0.17088409414158223
+
+Train acc at epoch 142: 0.9418333333333333
+Val acc at epoch 142: 0.94025
+Epoch 143
+-------------------------------
+Train loss at epoch 143: 0.16383107929428417
+Val loss at epoch 143: 0.16636536872767388
+
+Train acc at epoch 143: 0.9408125
+Val acc at epoch 143: 0.943
+Epoch 144
+-------------------------------
+Train loss at epoch 144: 0.16621598918239275
+Val loss at epoch 144: 0.16559224504422634
+
+Train acc at epoch 144: 0.9408541666666667
+Val acc at epoch 144: 0.9418333333333333
+Epoch 145
+-------------------------------
+Train loss at epoch 145: 0.16189196077982584
+Val loss at epoch 145: 0.16435208960257947
+
+Train acc at epoch 145: 0.9427291666666666
+Val acc at epoch 145: 0.943
+Epoch 146
+-------------------------------
+Train loss at epoch 146: 0.16257791749636333
+Val loss at epoch 146: 0.16669451647457925
+
+Train acc at epoch 146: 0.9417083333333334
+Val acc at epoch 146: 0.9428333333333333
+Epoch 147
+-------------------------------
+Train loss at epoch 147: 0.16559952615698179
+Val loss at epoch 147: 0.16777852589779713
+
+Train acc at epoch 147: 0.9405625
+Val acc at epoch 147: 0.94125
+Epoch 148
+-------------------------------
+Train loss at epoch 148: 0.16609732888142267
+Val loss at epoch 148: 0.1646563813011063
+
+Train acc at epoch 148: 0.9400625
+Val acc at epoch 148: 0.94275
+Epoch 149
+-------------------------------
+Train loss at epoch 149: 0.16456610590219498
+Val loss at epoch 149: 0.16435813364830423
+
+Train acc at epoch 149: 0.9413125
+Val acc at epoch 149: 0.9440833333333334
+Epoch 150
+-------------------------------
+Train loss at epoch 150: 0.16549148077766102
+Val loss at epoch 150: 0.1655146503385077
+
+Train acc at epoch 150: 0.9419375
+Val acc at epoch 150: 0.9410833333333334
+Epoch 151
+-------------------------------
+Train loss at epoch 151: 0.16179462133844694
+Val loss at epoch 151: 0.16789045406782882
+
+Train acc at epoch 151: 0.9436041666666667
+Val acc at epoch 151: 0.94175
+Epoch 152
+-------------------------------
+Train loss at epoch 152: 0.16340128643314045
+Val loss at epoch 152: 0.162890743067924
+
+Train acc at epoch 152: 0.9415
+Val acc at epoch 152: 0.94225
+Epoch 153
+-------------------------------
+Train loss at epoch 153: 0.16122790706157683
+Val loss at epoch 153: 0.16843575595858248
+
+Train acc at epoch 153: 0.9427083333333334
+Val acc at epoch 153: 0.941
+Epoch 154
+-------------------------------
+Train loss at epoch 154: 0.1639550545612971
+Val loss at epoch 154: 0.1647538319626387
+
+Train acc at epoch 154: 0.9429583333333333
+Val acc at epoch 154: 0.9426666666666667
+Epoch 155
+-------------------------------
+Train loss at epoch 155: 0.16187335573633513
+Val loss at epoch 155: 0.1611994280618556
+
+Train acc at epoch 155: 0.9425208333333334
+Val acc at epoch 155: 0.9425833333333333
+Epoch 156
+-------------------------------
+Train loss at epoch 156: 0.15855847293138503
+Val loss at epoch 156: 0.16366545301168522
+
+Train acc at epoch 156: 0.9436666666666667
+Val acc at epoch 156: 0.94325
+Epoch 157
+-------------------------------
+Train loss at epoch 157: 0.16035311078031858
+Val loss at epoch 157: 0.16575909124568422
+
+Train acc at epoch 157: 0.9429166666666666
+Val acc at epoch 157: 0.942
+Epoch 158
+-------------------------------
+Train loss at epoch 158: 0.1614689122835795
+Val loss at epoch 158: 0.16631646490001933
+
+Train acc at epoch 158: 0.942625
+Val acc at epoch 158: 0.9425833333333333
+Epoch 159
+-------------------------------
+Train loss at epoch 159: 0.16131874310970307
+Val loss at epoch 159: 0.16526409619032068
+
+Train acc at epoch 159: 0.9420833333333334
+Val acc at epoch 159: 0.9424166666666667
+Epoch 160
+-------------------------------
+Train loss at epoch 160: 0.1582937517265479
+Val loss at epoch 160: 0.16016940051253806
+
+Train acc at epoch 160: 0.9437708333333333
+Val acc at epoch 160: 0.9450833333333334
+Epoch 161
+-------------------------------
+Train loss at epoch 161: 0.15926091236869494
+Val loss at epoch 161: 0.1648104690966454
+
+Train acc at epoch 161: 0.9435416666666666
+Val acc at epoch 161: 0.9418333333333333
+Epoch 162
+-------------------------------
+Train loss at epoch 162: 0.15900175273418427
+Val loss at epoch 162: 0.16028832113172145
+
+Train acc at epoch 162: 0.9441041666666666
+Val acc at epoch 162: 0.9426666666666667
+Epoch 163
+-------------------------------
+Train loss at epoch 163: 0.16373017293214798
+Val loss at epoch 163: 0.16689981631142028
+
+Train acc at epoch 163: 0.941125
+Val acc at epoch 163: 0.9431666666666667
+Epoch 164
+-------------------------------
+Train loss at epoch 164: 0.15994426507751147
+Val loss at epoch 164: 0.1664807714838931
+
+Train acc at epoch 164: 0.9437916666666667
+Val acc at epoch 164: 0.9419166666666666
+Epoch 165
+-------------------------------
+Train loss at epoch 165: 0.1580814054409663
+Val loss at epoch 165: 0.1588281454082499
+
+Train acc at epoch 165: 0.9433541666666667
+Val acc at epoch 165: 0.9441666666666667
+Epoch 166
+-------------------------------
+Train loss at epoch 166: 0.15597028565406798
+Val loss at epoch 166: 0.16627278254228703
+
+Train acc at epoch 166: 0.9428541666666667
+Val acc at epoch 166: 0.9404166666666667
+Epoch 167
+-------------------------------
+Train loss at epoch 167: 0.15895764646927515
+Val loss at epoch 167: 0.16297860304884454
+
+Train acc at epoch 167: 0.9436041666666667
+Val acc at epoch 167: 0.9448333333333333
+Epoch 168
+-------------------------------
+Train loss at epoch 168: 0.15942251430948576
+Val loss at epoch 168: 0.16583249075932704
+
+Train acc at epoch 168: 0.9431041666666666
+Val acc at epoch 168: 0.9426666666666667
+Epoch 169
+-------------------------------
+Train loss at epoch 169: 0.15370790020624797
+Val loss at epoch 169: 0.16904812353722592
+
+Train acc at epoch 169: 0.9452708333333333
+Val acc at epoch 169: 0.9423333333333334
+Epoch 170
+-------------------------------
+Train loss at epoch 170: 0.15806247810522714
+Val loss at epoch 170: 0.16592125943366517
+
+Train acc at epoch 170: 0.9442083333333333
+Val acc at epoch 170: 0.94225
+Epoch 171
+-------------------------------
+Train loss at epoch 171: 0.15868887490034103
+Val loss at epoch 171: 0.16792342510629207
+
+Train acc at epoch 171: 0.9444583333333333
+Val acc at epoch 171: 0.9403333333333334
+Epoch 172
+-------------------------------
+Train loss at epoch 172: 0.1559266020854314
+Val loss at epoch 172: 0.16351375792254794
+
+Train acc at epoch 172: 0.9437083333333334
+Val acc at epoch 172: 0.9426666666666667
+Epoch 173
+-------------------------------
+Train loss at epoch 173: 0.15788288526733715
+Val loss at epoch 173: 0.1605795229923852
+
+Train acc at epoch 173: 0.9432916666666666
+Val acc at epoch 173: 0.9441666666666667
+Epoch 174
+-------------------------------
+Train loss at epoch 174: 0.15659667461117108
+Val loss at epoch 174: 0.16707549055919368
+
+Train acc at epoch 174: 0.9448333333333333
+Val acc at epoch 174: 0.9411666666666667
+Epoch 175
+-------------------------------
+Train loss at epoch 175: 0.15685209719340007
+Val loss at epoch 175: 0.16277761479958575
+
+Train acc at epoch 175: 0.9448333333333333
+Val acc at epoch 175: 0.941
+Epoch 176
+-------------------------------
+Train loss at epoch 176: 0.1541242449680964
+Val loss at epoch 176: 0.15957103142554455
+
+Train acc at epoch 176: 0.9438958333333334
+Val acc at epoch 176: 0.9428333333333333
+Epoch 177
+-------------------------------
+Train loss at epoch 177: 0.1547850250105063
+Val loss at epoch 177: 0.161960622335368
+
+Train acc at epoch 177: 0.9451875
+Val acc at epoch 177: 0.9420833333333334
+Epoch 178
+-------------------------------
+Train loss at epoch 178: 0.1551127137641112
+Val loss at epoch 178: 0.16292891354161373
+
+Train acc at epoch 178: 0.9439791666666667
+Val acc at epoch 178: 0.9430833333333334
+Epoch 179
+-------------------------------
+Train loss at epoch 179: 0.15645437922080357
+Val loss at epoch 179: 0.1646660659065906
+
+Train acc at epoch 179: 0.9450208333333333
+Val acc at epoch 179: 0.9435833333333333
+Epoch 180
+-------------------------------
+Train loss at epoch 180: 0.1526815064350764
+Val loss at epoch 180: 0.15987409599759478
+
+Train acc at epoch 180: 0.9456041666666667
+Val acc at epoch 180: 0.9446666666666667
+Epoch 181
+-------------------------------
+Train loss at epoch 181: 0.15211644020676612
+Val loss at epoch 181: 0.1667329397924403
+
+Train acc at epoch 181: 0.9465
+Val acc at epoch 181: 0.9435
+Epoch 182
+-------------------------------
+Train loss at epoch 182: 0.15217084828019142
+Val loss at epoch 182: 0.16869860994530486
+
+Train acc at epoch 182: 0.9453333333333334
+Val acc at epoch 182: 0.94175
+Epoch 183
+-------------------------------
+Train loss at epoch 183: 0.15741641829411188
+Val loss at epoch 183: 0.16098330387885265
+
+Train acc at epoch 183: 0.942375
+Val acc at epoch 183: 0.94325
+Epoch 184
+-------------------------------
+Train loss at epoch 184: 0.15056052926182747
+Val loss at epoch 184: 0.1663676287107011
+
+Train acc at epoch 184: 0.9467916666666667
+Val acc at epoch 184: 0.94125
+Epoch 185
+-------------------------------
+Train loss at epoch 185: 0.1531926731268565
+Val loss at epoch 185: 0.16663121011980037
+
+Train acc at epoch 185: 0.9456875
+Val acc at epoch 185: 0.9433333333333334
+Epoch 186
+-------------------------------
+Train loss at epoch 186: 0.1562886348962784
+Val loss at epoch 186: 0.16210509757412242
+
+Train acc at epoch 186: 0.9437916666666667
+Val acc at epoch 186: 0.9428333333333333
+Epoch 187
+-------------------------------
+Train loss at epoch 187: 0.15231551654140155
+Val loss at epoch 187: 0.16345342835213275
+
+Train acc at epoch 187: 0.9447708333333333
+Val acc at epoch 187: 0.94425
+Epoch 188
+-------------------------------
+Train loss at epoch 188: 0.15495455476641656
+Val loss at epoch 188: 0.16333786394209304
+
+Train acc at epoch 188: 0.94425
+Val acc at epoch 188: 0.9430833333333334
+Epoch 189
+-------------------------------
+Train loss at epoch 189: 0.15448584414521854
+Val loss at epoch 189: 0.16795792137371732
+
+Train acc at epoch 189: 0.9457708333333333
+Val acc at epoch 189: 0.9409166666666666
+Epoch 190
+-------------------------------
+Train loss at epoch 190: 0.1519105051457882
+Val loss at epoch 190: 0.16846603155136108
+
+Train acc at epoch 190: 0.9455416666666666
+Val acc at epoch 190: 0.94275
+Epoch 191
+-------------------------------
+Train loss at epoch 191: 0.15077575345834096
+Val loss at epoch 191: 0.15938072691255428
+
+Train acc at epoch 191: 0.9467083333333334
+Val acc at epoch 191: 0.9448333333333333
+Epoch 192
+-------------------------------
+Train loss at epoch 192: 0.15131112231810886
+Val loss at epoch 192: 0.1651137555216221
+
+Train acc at epoch 192: 0.9460208333333333
+Val acc at epoch 192: 0.9415833333333333
+Epoch 193
+-------------------------------
+Train loss at epoch 193: 0.15107862904667854
+Val loss at epoch 193: 0.1632691482280163
+
+Train acc at epoch 193: 0.9459791666666667
+Val acc at epoch 193: 0.94425
+Epoch 194
+-------------------------------
+Train loss at epoch 194: 0.1553417272567749
+Val loss at epoch 194: 0.15882379894560955
+
+Train acc at epoch 194: 0.9456458333333333
+Val acc at epoch 194: 0.945
+Epoch 195
+-------------------------------
+Train loss at epoch 195: 0.14925143497188886
+Val loss at epoch 195: 0.16528948836345622
+
+Train acc at epoch 195: 0.9467291666666666
+Val acc at epoch 195: 0.94275
+Epoch 196
+-------------------------------
+Train loss at epoch 196: 0.1505041698316733
+Val loss at epoch 196: 0.15971874215818466
+
+Train acc at epoch 196: 0.9458958333333334
+Val acc at epoch 196: 0.9443333333333334
+Epoch 197
+-------------------------------
+Train loss at epoch 197: 0.1485952641069889
+Val loss at epoch 197: 0.16625734759455033
+
+Train acc at epoch 197: 0.9468958333333334
+Val acc at epoch 197: 0.9424166666666667
+Epoch 198
+-------------------------------
+Train loss at epoch 198: 0.14982323801517486
+Val loss at epoch 198: 0.1574809434724615
+
+Train acc at epoch 198: 0.9468333333333333
+Val acc at epoch 198: 0.94625
+Epoch 199
+-------------------------------
+Train loss at epoch 199: 0.14881114267309506
+Val loss at epoch 199: 0.16313182447660476
+
+Train acc at epoch 199: 0.9479791666666667
+Val acc at epoch 199: 0.9435
+Epoch 200
+-------------------------------
+Train loss at epoch 200: 0.14942926240960758
+Val loss at epoch 200: 0.1594796691961745
+
+Train acc at epoch 200: 0.9474166666666667
+Val acc at epoch 200: 0.9440833333333334
+-------------------------------
+Test Accuracy of the model: 94.96
